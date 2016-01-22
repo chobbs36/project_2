@@ -1,7 +1,7 @@
 # project_2
 
 Top 5 is a social networking web app that allows user to share and rank their "best of the best". 
-
+(http://i.imgur.com/bmnBZtj.png)
 
 Ruby Gems Added:
 -Bootstrap-SASS (styling)
