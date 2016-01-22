@@ -2,11 +2,14 @@
   <% @lists.each do |list| %>
     <div class="box panel panel-default">
   <h2><%= link_to list.title, list %></h2>
-  <%= link_to (image_tag list.image.url(:medium)), list %>
     <div class="panel-body">
+  <%= link_to (image_tag list.image.url(:medium)), list %>
     </div>
     </div>
-  </div>
+  <% end %>
+</div>
 
-<% end %>
+
+
+
 
